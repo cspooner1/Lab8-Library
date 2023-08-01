@@ -1,0 +1,15 @@
+/Users/theboyz/Projects/Lab8-Library/Lab8-Library/obj/Debug/net7.0/Lab8-Library.csproj.AssemblyReference.cache
+/Users/theboyz/Projects/Lab8-Library/Lab8-Library/obj/Debug/net7.0/Lab8-Library.GeneratedMSBuildEditorConfig.editorconfig
+/Users/theboyz/Projects/Lab8-Library/Lab8-Library/obj/Debug/net7.0/Lab8-Library.AssemblyInfoInputs.cache
+/Users/theboyz/Projects/Lab8-Library/Lab8-Library/obj/Debug/net7.0/Lab8-Library.AssemblyInfo.cs
+/Users/theboyz/Projects/Lab8-Library/Lab8-Library/obj/Debug/net7.0/Lab8-Library.csproj.CoreCompileInputs.cache
+/Users/theboyz/Projects/Lab8-Library/Lab8-Library/bin/Debug/net7.0/Lab8-Library
+/Users/theboyz/Projects/Lab8-Library/Lab8-Library/bin/Debug/net7.0/Lab8-Library.deps.json
+/Users/theboyz/Projects/Lab8-Library/Lab8-Library/bin/Debug/net7.0/Lab8-Library.runtimeconfig.json
+/Users/theboyz/Projects/Lab8-Library/Lab8-Library/bin/Debug/net7.0/Lab8-Library.dll
+/Users/theboyz/Projects/Lab8-Library/Lab8-Library/bin/Debug/net7.0/Lab8-Library.pdb
+/Users/theboyz/Projects/Lab8-Library/Lab8-Library/obj/Debug/net7.0/Lab8-Library.dll
+/Users/theboyz/Projects/Lab8-Library/Lab8-Library/obj/Debug/net7.0/refint/Lab8-Library.dll
+/Users/theboyz/Projects/Lab8-Library/Lab8-Library/obj/Debug/net7.0/Lab8-Library.pdb
+/Users/theboyz/Projects/Lab8-Library/Lab8-Library/obj/Debug/net7.0/Lab8-Library.genruntimeconfig.cache
+/Users/theboyz/Projects/Lab8-Library/Lab8-Library/obj/Debug/net7.0/ref/Lab8-Library.dll
